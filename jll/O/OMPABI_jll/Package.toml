@@ -1,0 +1,3 @@
+name = "OMPABI_jll"
+uuid = "3215a6dd-3518-5385-95c6-e35c85970e8c"
+repo = "https://github.com/Julia-OpenMP/OMPABI_jll.jl"

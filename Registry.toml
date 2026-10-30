@@ -4,3 +4,4 @@ repo = "git@github.com:Julia-OpenMP/Registry.git"
 description = "Julia packages of the Julia-OpenMP organization"
 
 [packages]
+3215a6dd-3518-5385-95c6-e35c85970e8c = { name = "OMPABI_jll", path = "jll/O/OMPABI_jll" }
