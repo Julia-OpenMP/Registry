@@ -1,0 +1,6 @@
+name = "JuliaOpenMP"
+uuid = "bcf222df-fa1e-4933-abad-c388dfc102ef"
+repo = "git@github.com:Julia-OpenMP/Registry.git"
+description = "Julia packages of the Julia-OpenMP organization"
+
+[packages]
