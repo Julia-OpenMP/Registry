@@ -5,3 +5,4 @@ description = "Julia packages of the Julia-OpenMP organization"
 
 [packages]
 3215a6dd-3518-5385-95c6-e35c85970e8c = { name = "OMPABI_jll", path = "jll/O/OMPABI_jll" }
+8bfe3126-a470-4c94-995c-71ef2e805e8a = { name = "OMP", path = "O/OMP" }
